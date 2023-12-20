@@ -1,1 +1,1 @@
-##GPU NURBS
+GPU NURBS
